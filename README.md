@@ -1,2 +1,2 @@
 # lich-giang-day
-App tương tự base để theo dõi lịch giảng dạy
+Một cái test để theo dõi lịch giảng dạy
